@@ -1,0 +1,6 @@
+@RealTimeCharts.Server_HostAddress = http://localhost:5240
+
+GET {{RealTimeCharts.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
